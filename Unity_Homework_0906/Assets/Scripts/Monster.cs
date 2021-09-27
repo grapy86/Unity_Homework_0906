@@ -15,7 +15,6 @@ public class Monster : MonoBehaviour
     public Vector3 v3TraceMovemoent;
 
     [Header("±¼¸¨¹D¨ã")]
-    public bool DropItem = false;
     [Range(0, 1)]
     public float DropItemAVG = 1;
 
